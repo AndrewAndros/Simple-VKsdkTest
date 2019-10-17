@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VKsdkTest</string>
+    <string name="instructions">Введите в окне поиска имя и/или фамилию пользователя</string>
+    <string name="search_exhausted">Нет результатов поиска…</string>
+    <string name="fill_search_warning">заполните строку  поиска</string>
+    <string name="authentication_fail">Упс! Что-то пошло не так. ВК аутенфикация провалена</string>
+    <integer name="com_vk_sdk_AppId">7170227</integer>
+</resources>
