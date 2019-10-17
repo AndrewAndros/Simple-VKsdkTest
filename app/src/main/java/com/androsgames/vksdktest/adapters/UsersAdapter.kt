@@ -119,7 +119,7 @@ class UsersAdapter(private val interaction: Interaction) :
         if (!isLoading()) {
             val user = VKUser(0, 0, 0, "", "", "", "", false)
             user.lastName = "LOADING..."
-            Log.d("HAO", "display loading ordered")
+            Log.d("HAO", "display loading ordered/")
             mUsers!!.add(user)
             notifyDataSetChanged()
         }
